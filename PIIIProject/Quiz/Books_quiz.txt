@@ -1,0 +1,15 @@
+Q:Who is the Count of Monte Cristo?
+C:Arsène Lupin
+A:Edmond Dantès
+C:Napoléon
+C:Charles-Henri Sanson
+Q:Which of these mystery novel were written by Agatha Christie?
+C:The Hound of the Baskervilles
+C:The Da Vinci Code
+C:The Empty Box and Zeroth Maria
+A:And Then There Were None
+Q:Which tale does not exist in The Arabians night?
+C:Tale of the Vizier and the Sage
+A:Tale of the Body Thief
+C:Tale of the Jewish Doctor
+C:Tale of the Prince and the Ogress

@@ -1,0 +1,20 @@
+Q:What color is the sun?
+C:Red
+C:Blue
+A:Yellow
+C:Green
+Q:What comes after the number 4?
+C:3
+A:5
+C:2
+C:6
+Q:Why do cars have engine?
+A:to run it
+C:or safety
+C:to break
+C:to drift
+Q:Which part of the body allows you to see?
+C:Mouth
+C:Nose
+C:Ear
+A:Eye
