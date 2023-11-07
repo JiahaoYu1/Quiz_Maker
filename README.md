@@ -14,25 +14,25 @@ Quiz Maker allows you to create and play quizzes effortlessly. Simply provide a 
 
 When starting the game, you'll have the option to choose a quiz file. This file should be formatted with questions and answers. Select the quiz file you want to play, and Quiz Maker will use it to generate your quiz questions.
 
-![Choose a Quiz File](image-link-here)
+![Choose a Quiz File](./img/demo/choose.png)
 
 ### 3. Answer Questions
 
 Once you've selected a quiz file, Quiz Maker will present questions for you to answer. Choose the correct option and click "Next" to proceed to the next question. Test your knowledge and see how well you can score!
 
-![Answer Questions](image-link-here)
+![Answer Questions](./img/demo/anwser.png)
 
 ### 4. Early Quiz Finish
 
 If you wish to end the quiz before completing all the questions, you have the option to click the "Finish" button. Quiz Maker will calculate your score based on the answered questions, and you'll receive your results.
 
-![Early Quiz Finish](image-link-here)
+![Early Quiz Finish](./img/demo/finish.png)
 
 ### 5. Save Your Results
 
 After completing the quiz, Quiz Maker gives you the option to save your results. This is a great way to keep a record of your performance or to share your score with others. Your results will be saved in a file for future reference.
 
-![Save Your Results](image-link-here)
+![Save Your Results](./img/demo/save.png)
 
 ## Getting Started
 
