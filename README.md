@@ -1,7 +1,49 @@
-# <div align='center'>(420-6A6-AB) Programming III <br>Fall 2022</div>
+# Quiz Maker - README
 
-## <div align='center'>Course Project - Details on Teams - Class Notebook</div>
+## Introduction
 
-* **Worth**: 10%
-* 📅 **Due**: Check submission date on Teams - Class Notebook
-* 📥**Submission**: Submit through Github classroom
+Quiz Maker is a simple program designed to allow users to create and play quizzes using text files that contain questions and answers. This utility offers an interactive and educational way to test your knowledge or share quizzes with others. Whether you're a student, teacher, or just someone who loves quizzes, Quiz Maker has you covered.
+
+## Features
+
+### 1. Create and Play Quizzes
+
+Quiz Maker allows you to create and play quizzes effortlessly. Simply provide a text file that contains questions and answers, and you're ready to challenge yourself or others with a fun quiz.
+
+### 2. Choose a Quiz File
+
+When starting the game, you'll have the option to choose a quiz file. This file should be formatted with questions and answers. Select the quiz file you want to play, and Quiz Maker will use it to generate your quiz questions.
+
+![Choose a Quiz File](image-link-here)
+
+### 3. Answer Questions
+
+Once you've selected a quiz file, Quiz Maker will present questions for you to answer. Choose the correct option and click "Next" to proceed to the next question. Test your knowledge and see how well you can score!
+
+![Answer Questions](image-link-here)
+
+### 4. Early Quiz Finish
+
+If you wish to end the quiz before completing all the questions, you have the option to click the "Finish" button. Quiz Maker will calculate your score based on the answered questions, and you'll receive your results.
+
+![Early Quiz Finish](image-link-here)
+
+### 5. Save Your Results
+
+After completing the quiz, Quiz Maker gives you the option to save your results. This is a great way to keep a record of your performance or to share your score with others. Your results will be saved in a file for future reference.
+
+![Save Your Results](image-link-here)
+
+## Getting Started
+
+To get started with Quiz Maker, follow these steps:
+
+1. Launch the program and select the option to start a quiz.
+
+2. Choose a quiz file (a text file containing questions and answers) to play.
+
+3. Answer the questions presented to you by selecting the correct option and clicking "Next."
+
+4. If you wish to end the quiz early, click the "Finish" button.
+
+5. After completing the quiz, you have the option to save your results for future reference.
