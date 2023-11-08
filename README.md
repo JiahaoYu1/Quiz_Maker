@@ -2,7 +2,10 @@
 
 ## Introduction
 
-Quiz Maker is a simple program designed to allow users to create and play quizzes using text files that contain questions and answers. This utility offers an interactive and educational way to test your knowledge or share quizzes with others. Whether you're a student, teacher, or just someone who loves quizzes, Quiz Maker has you covered.
+Quiz Maker is a simple program designed to allow users to create and play quizzes using text files that contain questions and answers.
+This utility is  way to test your knowledge or share quizzes with others. 
+<br>
+This is also the first application to be made in wpf as a team
 
 ## Features
 
