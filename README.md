@@ -1,5 +1,12 @@
 # Quiz Maker - README
 
+## Menu
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+
 ## Introduction
 
 Quiz Maker is a simple program designed to allow users to create and play quizzes using text files that contain questions and answers.
